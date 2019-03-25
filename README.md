@@ -145,7 +145,7 @@ java -jar target/gs-rest-service-0.1.0.jar
 10. Test the service
 Navigate to  http://localhost:8080/greeting?name=Roberto below content should be displayed:
 ```json
-{"id":2,"content":"Hello, Roberto!"}
+{"id":1,"content":"Hello, Roberto!"}
 ```
 ## Reference
 1. https://spring.io/guides/gs/rest-service/#scratch
